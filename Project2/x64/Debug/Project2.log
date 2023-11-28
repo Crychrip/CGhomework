@@ -1,0 +1,53 @@
+﻿cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewAttachShader，函数 "public: void __cdecl cgProgram::CompileShader(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,enum cgShader::cgShaderType,char const *)" (?CompileShader@cgProgram@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@W4cgShaderType@cgShader@@PEBD@Z) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewBindAttribLocation，函数 "public: void __cdecl cgProgram::BindAttribLocation(unsigned int,char const *)" (?BindAttribLocation@cgProgram@@QEAAXIPEBD@Z) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewCompileShader，函数 "public: void __cdecl cgProgram::CompileShader(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,enum cgShader::cgShaderType,char const *)" (?CompileShader@cgProgram@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@W4cgShaderType@cgShader@@PEBD@Z) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewCreateProgram，函数 "public: void __cdecl cgProgram::CompileShader(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,enum cgShader::cgShaderType,char const *)" (?CompileShader@cgProgram@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@W4cgShaderType@cgShader@@PEBD@Z) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewCreateShader，函数 "public: void __cdecl cgProgram::CompileShader(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,enum cgShader::cgShaderType,char const *)" (?CompileShader@cgProgram@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@W4cgShaderType@cgShader@@PEBD@Z) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewDeleteProgram，函数 "public: __cdecl cgProgram::~cgProgram(void)" (??1cgProgram@@QEAA@XZ) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewDeleteShader，函数 "public: __cdecl cgProgram::~cgProgram(void)" (??1cgProgram@@QEAA@XZ) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewGetAttachedShaders，函数 "public: __cdecl cgProgram::~cgProgram(void)" (??1cgProgram@@QEAA@XZ) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewGetProgramInfoLog，函数 "public: void __cdecl cgProgram::Link(void)" (?Link@cgProgram@@QEAAXXZ) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewGetProgramiv，函数 "public: __cdecl cgProgram::~cgProgram(void)" (??1cgProgram@@QEAA@XZ) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewGetShaderInfoLog，函数 "public: void __cdecl cgProgram::CompileShader(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,enum cgShader::cgShaderType,char const *)" (?CompileShader@cgProgram@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@W4cgShaderType@cgShader@@PEBD@Z) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewGetShaderiv，函数 "public: void __cdecl cgProgram::CompileShader(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,enum cgShader::cgShaderType,char const *)" (?CompileShader@cgProgram@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@W4cgShaderType@cgShader@@PEBD@Z) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewGetUniformLocation，函数 "private: int __cdecl cgProgram::GetUniformLocation(char const *)" (?GetUniformLocation@cgProgram@@AEAAHPEBD@Z) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewLinkProgram，函数 "public: void __cdecl cgProgram::Link(void)" (?Link@cgProgram@@QEAAXXZ) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewShaderSource，函数 "public: void __cdecl cgProgram::CompileShader(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,enum cgShader::cgShaderType,char const *)" (?CompileShader@cgProgram@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@W4cgShaderType@cgShader@@PEBD@Z) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewUniform1f，函数 "public: void __cdecl cgProgram::SetUniform(char const *,float)" (?SetUniform@cgProgram@@QEAAXPEBDM@Z) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewUniform1i，函数 "public: void __cdecl cgProgram::SetUniform(char const *,int)" (?SetUniform@cgProgram@@QEAAXPEBDH@Z) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewUniform2f，函数 "public: void __cdecl cgProgram::SetUniform(char const *,struct glm::detail::tvec2<float> const &)" (?SetUniform@cgProgram@@QEAAXPEBDAEBU?$tvec2@M@detail@glm@@@Z) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewUniform3f，函数 "public: void __cdecl cgProgram::SetUniform(char const *,float,float,float)" (?SetUniform@cgProgram@@QEAAXPEBDMMM@Z) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewUniform4f，函数 "public: void __cdecl cgProgram::SetUniform(char const *,struct glm::detail::tvec4<float> const &)" (?SetUniform@cgProgram@@QEAAXPEBDAEBU?$tvec4@M@detail@glm@@@Z) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewUniformMatrix3fv，函数 "public: void __cdecl cgProgram::SetUniform(char const *,struct glm::detail::tmat3x3<float> const &)" (?SetUniform@cgProgram@@QEAAXPEBDAEBU?$tmat3x3@M@detail@glm@@@Z) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewUniformMatrix4fv，函数 "public: void __cdecl cgProgram::SetUniform(char const *,struct glm::detail::tmat4x4<float> const &)" (?SetUniform@cgProgram@@QEAAXPEBDAEBU?$tmat4x4@M@detail@glm@@@Z) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewUseProgram，函数 "public: void __cdecl cgProgram::Unuse(void)" (?Unuse@cgProgram@@QEAAXXZ) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewValidateProgram，函数 "public: void __cdecl cgProgram::Validate(void)" (?Validate@cgProgram@@QEAAXXZ) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewBindFragDataLocation，函数 "public: void __cdecl cgProgram::BindFragDataLocation(unsigned int,char const *)" (?BindFragDataLocation@cgProgram@@QEAAXIPEBD@Z) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewUniform1ui，函数 "public: void __cdecl cgProgram::SetUniform(char const *,unsigned int)" (?SetUniform@cgProgram@@QEAAXPEBDI@Z) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewGetProgramInterfaceiv，函数 "public: void __cdecl cgProgram::PrintActiveAttribs(void)" (?PrintActiveAttribs@cgProgram@@QEAAXXZ) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewGetProgramResourceName，函数 "public: void __cdecl cgProgram::PrintActiveAttribs(void)" (?PrintActiveAttribs@cgProgram@@QEAAXXZ) 中引用了该符号
+cgProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewGetProgramResourceiv，函数 "public: void __cdecl cgProgram::PrintActiveAttribs(void)" (?PrintActiveAttribs@cgProgram@@QEAAXXZ) 中引用了该符号
+projecttwo.obj : error LNK2019: 无法解析的外部符号 __imp_glewInit，函数 main 中引用了该符号
+projecttwo.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitDisplayMode，函数 main 中引用了该符号
+projecttwo.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitWindowPosition，函数 main 中引用了该符号
+projecttwo.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitWindowSize，函数 main 中引用了该符号
+projecttwo.obj : error LNK2019: 无法解析的外部符号 __imp_glutMainLoop，函数 main 中引用了该符号
+projecttwo.obj : error LNK2019: 无法解析的外部符号 __imp___glutCreateWindowWithExit，函数 glutCreateWindow_ATEXIT_HACK 中引用了该符号
+projecttwo.obj : error LNK2019: 无法解析的外部符号 __imp_glutPostRedisplay，函数 "void __cdecl change(void)" (?change@@YAXXZ) 中引用了该符号
+projecttwo.obj : error LNK2019: 无法解析的外部符号 __imp_glutSwapBuffers，函数 "void __cdecl display(void)" (?display@@YAXXZ) 中引用了该符号
+projecttwo.obj : error LNK2019: 无法解析的外部符号 __imp_glutDisplayFunc，函数 main 中引用了该符号
+projecttwo.obj : error LNK2019: 无法解析的外部符号 __imp_glutReshapeFunc，函数 main 中引用了该符号
+projecttwo.obj : error LNK2019: 无法解析的外部符号 __imp_glutKeyboardFunc，函数 main 中引用了该符号
+projecttwo.obj : error LNK2019: 无法解析的外部符号 __imp_glutIdleFunc，函数 main 中引用了该符号
+projecttwo.obj : error LNK2019: 无法解析的外部符号 __imp___glewBindBuffer，函数 "void __cdecl initTriangle(void)" (?initTriangle@@YAXXZ) 中引用了该符号
+projecttwo.obj : error LNK2019: 无法解析的外部符号 __imp___glewBufferData，函数 "void __cdecl initTriangle(void)" (?initTriangle@@YAXXZ) 中引用了该符号
+projecttwo.obj : error LNK2019: 无法解析的外部符号 __imp___glewDeleteBuffers，函数 main 中引用了该符号
+projecttwo.obj : error LNK2019: 无法解析的外部符号 __imp___glewGenBuffers，函数 "void __cdecl initTriangle(void)" (?initTriangle@@YAXXZ) 中引用了该符号
+projecttwo.obj : error LNK2019: 无法解析的外部符号 __imp___glewEnableVertexAttribArray，函数 "void __cdecl initTriangle(void)" (?initTriangle@@YAXXZ) 中引用了该符号
+projecttwo.obj : error LNK2019: 无法解析的外部符号 __imp___glewVertexAttribPointer，函数 "void __cdecl initTriangle(void)" (?initTriangle@@YAXXZ) 中引用了该符号
+projecttwo.obj : error LNK2019: 无法解析的外部符号 __imp___glewBindVertexArray，函数 "void __cdecl display(void)" (?display@@YAXXZ) 中引用了该符号
+projecttwo.obj : error LNK2019: 无法解析的外部符号 __imp___glewDeleteVertexArrays，函数 main 中引用了该符号
+projecttwo.obj : error LNK2019: 无法解析的外部符号 __imp___glewGenVertexArrays，函数 "void __cdecl initTriangle(void)" (?initTriangle@@YAXXZ) 中引用了该符号
+F:\Program Files\c++\ProjectTwo\lib\glew32.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+F:\Program Files\c++\ProjectTwo\lib\glut32.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+F:\Program Files\c++\ProjectTwo\x64\Debug\Project2.exe : fatal error LNK1120: 50 个无法解析的外部命令
