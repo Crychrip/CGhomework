@@ -1,0 +1,10 @@
+﻿ProjectOne.obj : error LNK2001: 无法解析的外部符号 __imp__glutReshapeFunc@4
+ProjectOne.obj : error LNK2001: 无法解析的外部符号 __imp____glutCreateWindowWithExit@8
+ProjectOne.obj : error LNK2001: 无法解析的外部符号 __imp__glutKeyboardFunc@4
+ProjectOne.obj : error LNK2001: 无法解析的外部符号 __imp__glutInitDisplayMode@4
+ProjectOne.obj : error LNK2001: 无法解析的外部符号 __imp__glutDisplayFunc@4
+ProjectOne.obj : error LNK2001: 无法解析的外部符号 __imp__glutMainLoop@0
+ProjectOne.obj : error LNK2001: 无法解析的外部符号 __imp__glutInitWindowPosition@8
+ProjectOne.obj : error LNK2001: 无法解析的外部符号 __imp__glutInitWindowSize@8
+ProjectOne.obj : error LNK2001: 无法解析的外部符号 __imp__glutSwapBuffers@0
+J:\开发库\ProjectOne\ProjectOne\Release\ProjectOne.exe : fatal error LNK1120: 9 个无法解析的外部命令
